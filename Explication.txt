@@ -1,7 +1,0 @@
-Projet 1 d'Architecture de logiciel et Qualité
-
-Fait le 28/10/2023 par : EL WELY Sidi Mohamed 
-
-J'ai fait ce travail seul. J'ai utilisé Visual Studio 2022 pour codé en C++.
-
-EXplication : dans le dossier: Rendu_projet1_EL_WELY il y a un pdf diagrame_de_classe et un dossier consoleApplication qui contient les 100 fichier de Simulations et il contient aussi le fichier resulats qui contient le code python. Dans le fichier consolApplicati2.sln il y a le code. 
